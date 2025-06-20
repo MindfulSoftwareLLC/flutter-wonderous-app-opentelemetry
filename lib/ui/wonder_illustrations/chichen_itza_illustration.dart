@@ -1,9 +1,9 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/fade_color_transition.dart';
-import 'package:wonders/ui/wonder_illustrations/common/illustration_piece.dart';
-import 'package:wonders/ui/wonder_illustrations/common/paint_textures.dart';
-import 'package:wonders/ui/wonder_illustrations/common/wonder_illustration_builder.dart';
-import 'package:wonders/ui/wonder_illustrations/common/wonder_illustration_config.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/fade_color_transition.dart';
+import 'package:wondrous_opentelemetry/ui/wonder_illustrations/common/illustration_piece.dart';
+import 'package:wondrous_opentelemetry/ui/wonder_illustrations/common/paint_textures.dart';
+import 'package:wondrous_opentelemetry/ui/wonder_illustrations/common/wonder_illustration_builder.dart';
+import 'package:wondrous_opentelemetry/ui/wonder_illustrations/common/wonder_illustration_config.dart';
 
 class ChichenItzaIllustration extends StatelessWidget {
   ChichenItzaIllustration({super.key, required this.config});

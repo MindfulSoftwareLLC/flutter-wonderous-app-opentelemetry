@@ -1,18 +1,18 @@
 import 'package:flutterrific_opentelemetry/flutterrific_opentelemetry.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/otel/metrics/wonder_metrics.dart';
-import 'package:wonders/ui/common/modals//fullscreen_video_viewer.dart';
-import 'package:wonders/ui/common/modals/fullscreen_maps_viewer.dart';
-import 'package:wonders/ui/screens/artifact/artifact_details/artifact_details_screen.dart';
-import 'package:wonders/ui/screens/artifact/artifact_search/artifact_search_screen.dart';
-import 'package:wonders/ui/screens/collection/collection_screen.dart';
-import 'package:wonders/ui/screens/home/wonders_home_screen.dart';
-import 'package:wonders/ui/screens/intro/intro_screen.dart';
-import 'package:wonders/ui/screens/page_not_found/page_not_found.dart';
-import 'package:wonders/ui/screens/timeline/timeline_screen.dart';
-import 'package:wonders/ui/screens/wonder_details/wonders_details_screen.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/otel/metrics/wonder_metrics.dart';
+import 'package:wondrous_opentelemetry/ui/common/modals//fullscreen_video_viewer.dart';
+import 'package:wondrous_opentelemetry/ui/common/modals/fullscreen_maps_viewer.dart';
+import 'package:wondrous_opentelemetry/ui/screens/artifact/artifact_details/artifact_details_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/artifact/artifact_search/artifact_search_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/collection/collection_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/home/wonders_home_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/intro/intro_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/page_not_found/page_not_found.dart';
+import 'package:wondrous_opentelemetry/ui/screens/timeline/timeline_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/wonder_details/wonders_details_screen.dart';
 
 /// Shared paths / urls used across the app
 class ScreenPaths {

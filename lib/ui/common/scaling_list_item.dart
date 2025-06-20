@@ -1,5 +1,5 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/utils/context_utils.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/context_utils.dart';
 
 class AnimatedListItem extends StatelessWidget {
   const AnimatedListItem({super.key, required this.scrollPos, required this.builder});

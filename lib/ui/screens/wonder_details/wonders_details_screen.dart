@@ -1,11 +1,11 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/lazy_indexed_stack.dart';
-import 'package:wonders/ui/common/measurable_widget.dart';
-import 'package:wonders/ui/screens/artifact/artifact_carousel/artifact_carousel_screen.dart';
-import 'package:wonders/ui/screens/editorial/editorial_screen.dart';
-import 'package:wonders/ui/screens/photo_gallery/photo_gallery.dart';
-import 'package:wonders/ui/screens/wonder_details/wonder_details_tab_menu.dart';
-import 'package:wonders/ui/screens/wonder_events/wonder_events.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/lazy_indexed_stack.dart';
+import 'package:wondrous_opentelemetry/ui/common/measurable_widget.dart';
+import 'package:wondrous_opentelemetry/ui/screens/artifact/artifact_carousel/artifact_carousel_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/editorial/editorial_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/photo_gallery/photo_gallery.dart';
+import 'package:wondrous_opentelemetry/ui/screens/wonder_details/wonder_details_tab_menu.dart';
+import 'package:wondrous_opentelemetry/ui/screens/wonder_events/wonder_events.dart';
 
 class WonderDetailsScreen extends StatefulWidget with GetItStatefulWidgetMixin {
   WonderDetailsScreen({super.key, required this.type, this.tabIndex = 0});

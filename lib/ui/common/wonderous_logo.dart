@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wonders/assets.dart';
+import 'package:wondrous_opentelemetry/assets.dart';
 
 class WonderousLogo extends StatelessWidget {
   const WonderousLogo({super.key, this.width = 100});

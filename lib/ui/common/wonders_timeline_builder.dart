@@ -1,5 +1,5 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/data/wonder_data.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_data.dart';
 
 /// Visualizes all of the wonders over time.
 /// Distributes the wonders over multiple "tracks" so that they do not overlap.

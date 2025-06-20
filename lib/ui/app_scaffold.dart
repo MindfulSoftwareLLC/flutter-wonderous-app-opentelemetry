@@ -1,5 +1,5 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/app_scroll_behavior.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/app_scroll_behavior.dart';
 
 class WondersAppScaffold extends StatelessWidget {
   const WondersAppScaffold({super.key, required this.child});

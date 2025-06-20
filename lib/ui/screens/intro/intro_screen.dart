@@ -1,15 +1,15 @@
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/platform_info.dart';
-import 'package:wonders/ui/common/app_icons.dart';
-import 'package:wonders/ui/common/controls/app_page_indicator.dart';
-import 'package:wonders/ui/common/gradient_container.dart';
-import 'package:wonders/ui/common/ignore_pointer.dart';
-import 'package:wonders/ui/common/previous_next_navigation.dart';
-import 'package:wonders/ui/common/static_text_scale.dart';
-import 'package:wonders/ui/common/themed_text.dart';
-import 'package:wonders/ui/common/utils/app_haptics.dart';
-import 'package:wonders/ui/common/utils/duration_utils.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/platform_info.dart';
+import 'package:wondrous_opentelemetry/ui/common/app_icons.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/app_page_indicator.dart';
+import 'package:wondrous_opentelemetry/ui/common/gradient_container.dart';
+import 'package:wondrous_opentelemetry/ui/common/ignore_pointer.dart';
+import 'package:wondrous_opentelemetry/ui/common/previous_next_navigation.dart';
+import 'package:wondrous_opentelemetry/ui/common/static_text_scale.dart';
+import 'package:wondrous_opentelemetry/ui/common/themed_text.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/app_haptics.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/duration_utils.dart';
 
 class IntroScreen extends StatefulWidget {
   const IntroScreen({super.key});

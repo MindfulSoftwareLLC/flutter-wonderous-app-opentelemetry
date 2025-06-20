@@ -1,4 +1,4 @@
-import 'package:wonders/logic/data/wonder_type.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_type.dart';
 
 class WonderLocation {
   final double latitude;

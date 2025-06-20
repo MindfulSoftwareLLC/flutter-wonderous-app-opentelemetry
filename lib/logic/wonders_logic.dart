@@ -1,13 +1,13 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/data/wonder_data.dart';
-import 'package:wonders/logic/data/wonders_data/chichen_itza_data.dart';
-import 'package:wonders/logic/data/wonders_data/christ_redeemer_data.dart';
-import 'package:wonders/logic/data/wonders_data/colosseum_data.dart';
-import 'package:wonders/logic/data/wonders_data/great_wall_data.dart';
-import 'package:wonders/logic/data/wonders_data/machu_picchu_data.dart';
-import 'package:wonders/logic/data/wonders_data/petra_data.dart';
-import 'package:wonders/logic/data/wonders_data/pyramids_giza_data.dart';
-import 'package:wonders/logic/data/wonders_data/taj_mahal_data.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/chichen_itza_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/christ_redeemer_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/colosseum_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/great_wall_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/machu_picchu_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/petra_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/pyramids_giza_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/taj_mahal_data.dart';
 
 class WondersLogic {
   List<WonderData> all = [];

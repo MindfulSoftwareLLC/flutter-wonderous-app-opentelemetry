@@ -3,10 +3,10 @@ import 'dart:io';
 
 import 'package:http/http.dart' show get;
 import 'package:path_provider/path_provider.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/data/wonder_data.dart';
-import 'package:wonders/logic/unsplash_service.dart';
-import 'package:wonders/logic/wonders_logic.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_data.dart';
+import 'package:wondrous_opentelemetry/logic/unsplash_service.dart';
+import 'package:wondrous_opentelemetry/logic/wonders_logic.dart';
 
 class UnsplashDownloadService {
   static final UnsplashService _unsplash = UnsplashService();

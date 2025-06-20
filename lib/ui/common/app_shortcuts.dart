@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class AppShortcuts {
   static final Map<ShortcutActivator, Intent> _defaultWebAndDesktopShortcuts = <ShortcutActivator, Intent>{

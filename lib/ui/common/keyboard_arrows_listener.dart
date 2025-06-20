@@ -1,4 +1,4 @@
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class ArrowDir {
   ArrowDir(this.hz, this.vt);

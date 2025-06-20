@@ -1,8 +1,8 @@
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/data/wonder_data.dart';
-import 'package:wonders/ui/common/controls/app_header.dart';
-import 'package:wonders/ui/common/google_maps_marker.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_data.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/app_header.dart';
+import 'package:wondrous_opentelemetry/ui/common/google_maps_marker.dart';
 
 class FullscreenMapsViewer extends StatelessWidget {
   FullscreenMapsViewer({super.key, required this.type});

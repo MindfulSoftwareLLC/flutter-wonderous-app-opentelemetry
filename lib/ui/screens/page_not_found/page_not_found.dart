@@ -1,7 +1,7 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/platform_info.dart';
-import 'package:wonders/ui/common/themed_text.dart';
-import 'package:wonders/ui/common/wonderous_logo.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/platform_info.dart';
+import 'package:wondrous_opentelemetry/ui/common/themed_text.dart';
+import 'package:wondrous_opentelemetry/ui/common/wonderous_logo.dart';
 
 class PageNotFound extends StatelessWidget {
   const PageNotFound(this.url, {super.key});

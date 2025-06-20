@@ -1,7 +1,7 @@
 import 'dart:ui' as ui;
 
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/wonder_illustrations/common/wonder_illustration_builder.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/wonder_illustrations/common/wonder_illustration_builder.dart';
 
 /// Combines [Align], [FractionalBoxWithMinSize], [Image] and [Transform.translate]
 /// to standardize behavior across the various wonder illustrations

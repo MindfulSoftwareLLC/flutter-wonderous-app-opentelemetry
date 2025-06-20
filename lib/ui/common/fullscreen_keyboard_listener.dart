@@ -1,4 +1,4 @@
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class FullscreenKeyboardListener extends StatefulWidget {
   const FullscreenKeyboardListener({super.key, required this.child, this.onKeyDown, this.onKeyUp, this.onKeyRepeat});

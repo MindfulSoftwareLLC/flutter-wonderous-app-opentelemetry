@@ -1,5 +1,5 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/data/unsplash_photo_data.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/data/unsplash_photo_data.dart';
 
 class UnsplashPhoto extends StatelessWidget {
   const UnsplashPhoto(this.id, {super.key, this.fit = BoxFit.cover, required this.size, this.showCredits = false});

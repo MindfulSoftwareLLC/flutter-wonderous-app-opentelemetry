@@ -1,5 +1,5 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/utils/app_haptics.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/app_haptics.dart';
 
 class SimpleCheckbox extends StatelessWidget {
   const SimpleCheckbox({super.key, required this.active, required this.onToggled, required this.label});

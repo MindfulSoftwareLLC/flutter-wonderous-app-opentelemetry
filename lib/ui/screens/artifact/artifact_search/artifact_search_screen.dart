@@ -1,12 +1,12 @@
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/data/wonder_data.dart';
-import 'package:wonders/logic/data/wonders_data/search/search_data.dart';
-import 'package:wonders/ui/common/app_icons.dart';
-import 'package:wonders/ui/common/controls/app_header.dart';
-import 'package:wonders/ui/common/static_text_scale.dart';
-import 'package:wonders/ui/common/utils/app_haptics.dart';
-import 'package:wonders/ui/screens/artifact/artifact_search/time_range_selector/expanding_time_range_selector.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_data.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonders_data/search/search_data.dart';
+import 'package:wondrous_opentelemetry/ui/common/app_icons.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/app_header.dart';
+import 'package:wondrous_opentelemetry/ui/common/static_text_scale.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/app_haptics.dart';
+import 'package:wondrous_opentelemetry/ui/screens/artifact/artifact_search/time_range_selector/expanding_time_range_selector.dart';
 
 part 'widgets/_result_tile.dart';
 part 'widgets/_results_grid.dart';

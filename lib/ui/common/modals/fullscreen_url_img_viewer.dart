@@ -1,10 +1,10 @@
 import 'dart:async';
 
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/app_icons.dart';
-import 'package:wonders/ui/common/controls/app_header.dart';
-import 'package:wonders/ui/common/fullscreen_keyboard_listener.dart';
-import 'package:wonders/ui/common/utils/app_haptics.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/app_icons.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/app_header.dart';
+import 'package:wondrous_opentelemetry/ui/common/fullscreen_keyboard_listener.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/app_haptics.dart';
 
 class FullscreenUrlImgViewer extends StatefulWidget {
   const FullscreenUrlImgViewer({super.key, required this.urls, this.index = 0});

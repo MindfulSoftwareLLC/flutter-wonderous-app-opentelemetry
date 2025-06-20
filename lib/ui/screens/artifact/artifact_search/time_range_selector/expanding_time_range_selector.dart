@@ -1,12 +1,12 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/string_utils.dart';
-import 'package:wonders/logic/data/wonder_data.dart';
-import 'package:wonders/ui/common/app_icons.dart';
-import 'package:wonders/ui/common/opening_card.dart';
-import 'package:wonders/ui/common/wonders_timeline_builder.dart';
-import 'package:wonders/ui/screens/artifact/artifact_search/artifact_search_screen.dart';
-import 'package:wonders/ui/screens/artifact/artifact_search/time_range_selector/range_selector.dart';
-import 'package:wonders/ui/screens/artifact/artifact_search/time_range_selector/time_range_painter.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/string_utils.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_data.dart';
+import 'package:wondrous_opentelemetry/ui/common/app_icons.dart';
+import 'package:wondrous_opentelemetry/ui/common/opening_card.dart';
+import 'package:wondrous_opentelemetry/ui/common/wonders_timeline_builder.dart';
+import 'package:wondrous_opentelemetry/ui/screens/artifact/artifact_search/artifact_search_screen.dart';
+import 'package:wondrous_opentelemetry/ui/screens/artifact/artifact_search/time_range_selector/range_selector.dart';
+import 'package:wondrous_opentelemetry/ui/screens/artifact/artifact_search/time_range_selector/time_range_painter.dart';
 
 // Expandable timerange selector component that further refines Artifact Search based on date range.
 class ExpandingTimeRangeSelector extends StatefulWidget {

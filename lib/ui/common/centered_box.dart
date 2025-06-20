@@ -1,4 +1,4 @@
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class CenteredBox extends StatelessWidget {
   const CenteredBox({super.key, required this.child, this.width, this.height, this.padding});

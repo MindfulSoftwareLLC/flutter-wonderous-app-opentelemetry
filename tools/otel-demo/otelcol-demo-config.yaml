@@ -24,5 +24,8 @@ service:
       receivers: [otlp]
       processors: [batch]
       exporters: [debug]
-
+    metrics:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [debug]
   extensions: []

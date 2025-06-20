@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/utils/context_utils.dart';
-import 'package:wonders/ui/common/utils/duration_utils.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/context_utils.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/duration_utils.dart';
 
 // TODO: Clouds should fade in and out
 // Shows a set of clouds that animated onto stage.

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wonders/ui/common/ignore_pointer.dart';
+import 'package:wondrous_opentelemetry/ui/common/ignore_pointer.dart';
 
 class GradientContainer extends StatelessWidget {
   const GradientContainer(this.colors, this.stops,

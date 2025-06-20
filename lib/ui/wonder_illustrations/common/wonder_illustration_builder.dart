@@ -1,5 +1,5 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/wonder_illustrations/common/wonder_illustration_config.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/wonder_illustrations/common/wonder_illustration_config.dart';
 
 /// Takes a builder for each of the 3 illustration layers.
 /// Each builder returns a list of Widgets which will be added directly to a Stack.

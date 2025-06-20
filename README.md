@@ -5,10 +5,13 @@ via [Flutterific OTel](https://pub.dev/flutterific_otel) and [Dartastic.io](http
 
 This Wondrous app reports user interactions and app metrics to an OpenTelemetry backend.
 
-This app reports startup times, Apdex scores, page rendering times, component paint times, navigations and user interactions
+The app reports startup times, Apdex scores, page rendering times, component paint times, navigations and user interactions
 such as swipes and clicks on the photo grid.
 
-This fork adds a weather widget to Wondrous to demonstrate otel traces through the backend.
+This fork adds a weather widget to Wondrous to demonstrate OTel traces through the backend.
+
+To get an idea of how to apply Dartastic and Flutterrific to your app, 
+look at the first commit for opentelemetry, especially main.dart and router.dart.
 
 ## OpenTelemetry Demo
 
@@ -42,7 +45,11 @@ flutter run -d ios --dart-define WEATHER_API_KEY=3f4d6e7bf868e5d14487ff4c06466e3
 Run this Wondrous app locally by building and running for a target platfrom such as web,
 iOS, Android, etc.
 
-Navigate around the app and you'll see Metrics (under Drilldown).
+Navigate around the app and you'll see the otel collector logging navigation traces and metrics.
+
+
+
+Metrics (under Drilldown).
 
 ![img.png](grafana-metrics.png)
 

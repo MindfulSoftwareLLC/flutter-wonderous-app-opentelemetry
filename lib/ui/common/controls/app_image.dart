@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:image_fade/image_fade.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/retry_image.dart';
-import 'package:wonders/ui/common/controls/app_loading_indicator.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/retry_image.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/app_loading_indicator.dart';
 
 class AppImage extends StatefulWidget {
   const AppImage({

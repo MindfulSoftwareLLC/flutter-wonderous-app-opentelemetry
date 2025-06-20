@@ -1,6 +1,6 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/platform_info.dart';
-import 'package:wonders/logic/common/save_load_mixin.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/platform_info.dart';
+import 'package:wondrous_opentelemetry/logic/common/save_load_mixin.dart';
 
 class SettingsLogic with ThrottledSaveLoadMixin {
   @override

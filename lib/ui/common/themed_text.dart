@@ -1,4 +1,4 @@
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class DefaultTextColor extends StatelessWidget {
   const DefaultTextColor({super.key, required this.color, required this.child});

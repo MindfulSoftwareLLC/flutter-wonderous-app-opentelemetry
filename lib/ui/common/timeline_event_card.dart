@@ -1,6 +1,6 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/string_utils.dart';
-import 'package:wonders/ui/common/themed_text.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/string_utils.dart';
+import 'package:wondrous_opentelemetry/ui/common/themed_text.dart';
 
 class TimelineEventCard extends StatelessWidget {
   const TimelineEventCard({super.key, required this.year, required this.text, this.darkMode = false});

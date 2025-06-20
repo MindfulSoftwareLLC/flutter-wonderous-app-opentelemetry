@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class AppBackdrop extends StatelessWidget {
   const AppBackdrop({

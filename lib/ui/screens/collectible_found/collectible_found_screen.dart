@@ -1,12 +1,12 @@
 import 'package:particle_field/particle_field.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/animate_utils.dart';
-import 'package:wonders/logic/data/collectible_data.dart';
-import 'package:wonders/ui/common/app_backdrop.dart';
-import 'package:wonders/ui/common/centered_box.dart';
-import 'package:wonders/ui/common/controls/app_header.dart';
-import 'package:wonders/ui/common/pop_navigator_underlay.dart';
-import 'package:wonders/ui/common/utils/duration_utils.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/animate_utils.dart';
+import 'package:wondrous_opentelemetry/logic/data/collectible_data.dart';
+import 'package:wondrous_opentelemetry/ui/common/app_backdrop.dart';
+import 'package:wondrous_opentelemetry/ui/common/centered_box.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/app_header.dart';
+import 'package:wondrous_opentelemetry/ui/common/pop_navigator_underlay.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/duration_utils.dart';
 
 part 'widgets/_animated_ribbon.dart';
 part 'widgets/_celebration_particles.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/rendering.dart';
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class IgnorePointerKeepSemantics extends SingleChildRenderObjectWidget {
   const IgnorePointerKeepSemantics({super.key, super.child});

@@ -1,7 +1,7 @@
 // ignore_for_file: library_private_types_in_public_api
 
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/utils/duration_utils.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/duration_utils.dart';
 
 export 'colors.dart';
 

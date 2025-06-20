@@ -1,4 +1,4 @@
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class DashedLine extends StatelessWidget {
   const DashedLine({super.key, this.vertical = false});

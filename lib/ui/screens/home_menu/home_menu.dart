@@ -1,16 +1,16 @@
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:package_info_plus/package_info_plus.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/animate_utils.dart';
-import 'package:wonders/logic/data/wonder_data.dart';
-import 'package:wonders/ui/common/app_backdrop.dart';
-import 'package:wonders/ui/common/app_icons.dart';
-import 'package:wonders/ui/common/controls/app_header.dart';
-import 'package:wonders/ui/common/controls/locale_switcher.dart';
-import 'package:wonders/ui/common/pop_navigator_underlay.dart';
-import 'package:wonders/ui/common/utils/duration_utils.dart';
-import 'package:wonders/ui/common/wonderous_logo.dart';
-import 'package:wonders/ui/screens/home_menu/about_dialog_content.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/animate_utils.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_data.dart';
+import 'package:wondrous_opentelemetry/ui/common/app_backdrop.dart';
+import 'package:wondrous_opentelemetry/ui/common/app_icons.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/app_header.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/locale_switcher.dart';
+import 'package:wondrous_opentelemetry/ui/common/pop_navigator_underlay.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/duration_utils.dart';
+import 'package:wondrous_opentelemetry/ui/common/wonderous_logo.dart';
+import 'package:wondrous_opentelemetry/ui/screens/home_menu/about_dialog_content.dart';
 
 class HomeMenu extends StatefulWidget {
   const HomeMenu({super.key, required this.data});

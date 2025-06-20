@@ -1,6 +1,6 @@
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/utils/duration_utils.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/duration_utils.dart';
 
 class CompassDivider extends StatelessWidget {
   const CompassDivider({super.key, required this.isExpanded, this.duration, this.linesColor, this.compassColor});

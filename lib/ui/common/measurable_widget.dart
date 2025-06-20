@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/rendering.dart';
-import 'package:wonders/common_libs.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
 
 class MeasurableWidget extends SingleChildRenderObjectWidget {
   const MeasurableWidget({super.key, required this.onChange, required Widget super.child});

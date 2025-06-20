@@ -1,6 +1,6 @@
 import 'package:flutter/gestures.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/ui/common/controls/trackpad_listener.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/trackpad_listener.dart';
 
 class EightWaySwipeDetector extends StatefulWidget {
   const EightWaySwipeDetector({super.key, required this.child, this.threshold = 50, required this.onSwipe});

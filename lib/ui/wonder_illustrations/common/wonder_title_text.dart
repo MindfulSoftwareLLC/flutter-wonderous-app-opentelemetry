@@ -1,6 +1,6 @@
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/string_utils.dart';
-import 'package:wonders/logic/data/wonder_data.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/string_utils.dart';
+import 'package:wondrous_opentelemetry/logic/data/wonder_data.dart';
 
 /// To match designs:
 /// - need a line-break after the first line

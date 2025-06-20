@@ -1,17 +1,17 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
-import 'package:wonders/common_libs.dart';
-import 'package:wonders/logic/common/animate_utils.dart';
-import 'package:wonders/logic/data/unsplash_photo_data.dart';
-import 'package:wonders/ui/common/controls/app_loading_indicator.dart';
-import 'package:wonders/ui/common/controls/eight_way_swipe_detector.dart';
-import 'package:wonders/ui/common/fullscreen_keyboard_listener.dart';
-import 'package:wonders/ui/common/hidden_collectible.dart';
-import 'package:wonders/ui/common/ignore_pointer.dart';
-import 'package:wonders/ui/common/modals/fullscreen_url_img_viewer.dart';
-import 'package:wonders/ui/common/unsplash_photo.dart';
-import 'package:wonders/ui/common/utils/app_haptics.dart';
+import 'package:wondrous_opentelemetry/common_libs.dart';
+import 'package:wondrous_opentelemetry/logic/common/animate_utils.dart';
+import 'package:wondrous_opentelemetry/logic/data/unsplash_photo_data.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/app_loading_indicator.dart';
+import 'package:wondrous_opentelemetry/ui/common/controls/eight_way_swipe_detector.dart';
+import 'package:wondrous_opentelemetry/ui/common/fullscreen_keyboard_listener.dart';
+import 'package:wondrous_opentelemetry/ui/common/hidden_collectible.dart';
+import 'package:wondrous_opentelemetry/ui/common/ignore_pointer.dart';
+import 'package:wondrous_opentelemetry/ui/common/modals/fullscreen_url_img_viewer.dart';
+import 'package:wondrous_opentelemetry/ui/common/unsplash_photo.dart';
+import 'package:wondrous_opentelemetry/ui/common/utils/app_haptics.dart';
 
 part 'widgets/_animated_cutout_overlay.dart';
 

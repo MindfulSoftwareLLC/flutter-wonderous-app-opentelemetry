@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutterrific_opentelemetry/flutterrific_opentelemetry.dart';
-import 'package:wonders/otel/debug_span_diagnostics.dart';
+import 'package:wondrous_opentelemetry/otel/debug_span_diagnostics.dart';
 
 /// A floating debug panel for OpenTelemetry testing
 /// Shows as a small floating button that expands to show test controls
